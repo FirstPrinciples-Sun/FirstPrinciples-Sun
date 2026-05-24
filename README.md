@@ -38,17 +38,17 @@
     <td valign="top" width="50%" align="center">
       <br>
       <h3>⛰️</h3>
-      <b>ผมสร้างของที่อยู่ได้นาน</b>
+      <b>ผมสร้างของให้อยู่ได้นาน</b>
       <br>
-      <sub>ไม่ใช่ของที่อยู่แค่กระแส</sub>
+      <sub>ทุกบรรทัด เขียนเพื่อยืนระยะ</sub>
       <br><br>
     </td>
     <td valign="top" width="50%" align="center">
       <br>
       <h3>⛰️</h3>
-      <b>I build things meant to last</b>
+      <b>I build to last</b>
       <br>
-      <sub>not things meant to trend</sub>
+      <sub>every line written for the long run</sub>
       <br><br>
     </td>
   </tr>
@@ -130,7 +130,7 @@
       <h2>🧭</h2>
       <b>First principles</b>
       <br>
-      <sub><i>คิดจากต้นทาง<br>ไม่ลอกตามที่มีอยู่</i></sub>
+      <sub><i>คิดจากต้นทาง<br>ทุกครั้ง เริ่มที่ความจริง</i></sub>
     </td>
     <td align="center" width="25%">
       <h2>🔓</h2>
@@ -142,7 +142,7 @@
       <h2>🏠</h2>
       <b>Local by default</b>
       <br>
-      <sub><i>ทำงานออฟไลน์ได้<br>ก่อนคิดเรื่องคลาวด์</i></sub>
+      <sub><i>ทำงานบนเครื่องคุณ<br>คือบ้านของข้อมูล</i></sub>
     </td>
     <td align="center" width="25%">
       <h2>🪨</h2>
