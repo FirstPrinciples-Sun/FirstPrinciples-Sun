@@ -1,39 +1,26 @@
 <!--
-  GitHub profile README · @FirstPrinciples-Sun
-  Tone: quiet, friendly, useful. No vanity badges, no animated GIFs, no
-  "Languages I know" pie charts. Just clear pointers to current work.
+  GitHub profile · @FirstPrinciples-Sun
+  เน้น "วิธีคิด" และ "เป้าหมาย" ไม่ใช่รายการผลงาน
 -->
 
-### สวัสดีครับ · Hello
+###
 
-ผมเขียน open-source tooling สำหรับงานในไทยที่ยังไม่ค่อยมีใครทำ —
-ส่วนใหญ่เป็น Rust/TypeScript, ใช้งานออฟไลน์ได้, เน้นความเป็นส่วนตัว
+> เครื่องมือที่ดี ไม่จำเป็นต้องเสียเงิน  
+> และไม่ควรต้องส่งข้อมูลของเราออกไปไหน
 
-I build small open-source tools for Thai problems that aren't well-served
-yet. Mostly Rust + TypeScript, offline-first, privacy by default.
+<br>
 
----
+ผมทำซอฟต์แวร์เปิดเผยรหัส
+สำหรับปัญหาธรรมดา ๆ ที่คนไทยเจอทุกวัน
+แต่ยังไม่มีทางเลือกที่ดีพอ
 
-#### โปรเจ็คที่กำลังดูแล · Currently maintaining
+ทำงานทีละชิ้น ทีละชิ้น
+เล็กก่อนแล้วค่อยขยาย ถ้ามันใช้ได้จริง
 
-| | | |
-|---|---|---|
-| [`slip-to-ledger`](https://github.com/FirstPrinciples-Sun/slip-to-ledger) | OCR สลิปโอนเงินไทยทุกธนาคาร → JSON/CSV. รันในเบราว์เซอร์ทั้งหมด — สลิปไม่ออกจากเครื่อง | Rust · TypeScript |
-| [`khaodee`](https://github.com/FirstPrinciples-Sun/khaodee) | POS + บัญชีคู่ + ภพ.30 สำหรับร้านค้าปลีกไทย. self-host ได้, AGPL | TypeScript · SQLite |
-| [`reun`](https://github.com/FirstPrinciples-Sun/reun) | Personal life OS — time/mood/habits/journal. Single Rust binary, local-first | Rust |
-| [`civic-sentinel`](https://github.com/FirstPrinciples-Sun/civic-sentinel) | Crowdsourced civic-issue triage platform | TypeScript |
+อยากเห็นโลกที่ของพื้นฐาน
+— เรื่องเงิน เรื่องเวลา เรื่องร่างกาย เรื่องชีวิต —
+เป็นของเราเอง ไม่ใช่ของแพลตฟอร์ม
 
-ลอง slip-to-ledger ได้ที่ → **<https://firstprinciples-sun.github.io/slip-to-ledger/>**
+<br>
 
----
-
-#### หลักการทำงาน · How I work
-
-- **Local-first ก่อนเสมอ** — ของดีไม่ต้องผูก SaaS
-- **Open source ตั้งแต่ commit แรก** — ไม่มี private-then-release
-- **คอมมิตเล็ก ๆ บ่อย ๆ** — ดีกว่า PR ใหญ่ที่ไม่มีใครรีวิว
-- **เอกสารเป็นภาษาไทยเท่ากับอังกฤษ** — ของไทยควรอ่านง่ายในภาษาไทย
-
----
-
-<sub>License: ส่วนใหญ่ AGPL-3.0 หรือ MIT/Apache-2.0 dual · ลองคลิกเข้าไปดูรายละเอียดแต่ละโปรเจ็ค</sub>
+<sub>เริ่มต้นทุกโปรเจ็คจาก first principles · ทำให้คนใช้ก่อนคนอื่น · เปิดเผยทุกบรรทัดตั้งแต่บรรทัดแรก</sub>
