@@ -1,6 +1,7 @@
 <!--
   GitHub profile · @FirstPrinciples-Sun
-  Pure manifesto · TH/EN · งานสร้าง ไม่ใช่งานโชว์ skill
+  Pure manifesto · TH/EN · firm declarations of stance only
+  ไม่พาดพิงคนอื่น/แพลตฟอร์ม — พูดเฉพาะจุดยืนของตัวเอง
 -->
 
 <div align="center">
@@ -14,8 +15,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=E89070&center=true&vCenter=true&width=720&height=46&lines=Good+tools+shouldn't+cost+a+subscription;Your+data+shouldn't+have+to+leave+your+device;Always+from+first+principles">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=720&height=46&lines=Good+tools+shouldn't+cost+a+subscription;Your+data+shouldn't+have+to+leave+your+device;Always+from+first+principles" alt="ideals"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=900&color=E89070&center=true&vCenter=true&width=760&height=50&lines=I+build+for+the+long+run.;I+ship+in+the+open.;I+keep+data+where+it+belongs.;From+first+principles%2C+always.">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=760&height=50&lines=I+build+for+the+long+run.;I+ship+in+the+open.;I+keep+data+where+it+belongs.;From+first+principles%2C+always." alt="stance"/>
 </picture>
 
 </div>
@@ -26,30 +27,64 @@
 
 <div align="center">
 
-# 〈 ผมเชื่อว่า · I believe 〉
+# 〈 จุดยืน · Where I stand 〉
 
 </div>
 
-<table border="0" align="center">
+<br>
+
+<table border="0" align="center" width="100%">
   <tr>
     <td valign="top" width="50%" align="center">
       <br>
-      <h3>🌍</h3>
-      <b>ของพื้นฐานในชีวิต</b><br>
-      <sub>เงิน · เวลา · ร่างกาย · ข้อมูล</sub><br>
+      <h3>⛰️</h3>
+      <b>ผมสร้างของที่อยู่ได้นาน</b>
       <br>
-      <i>ควรเป็นของเราเอง</i><br>
-      <sub>ไม่ใช่ของแพลตฟอร์ม<br>ที่ให้เราเช่าใช้รายเดือน</sub>
+      <sub>ไม่ใช่ของที่อยู่แค่กระแส</sub>
       <br><br>
     </td>
     <td valign="top" width="50%" align="center">
       <br>
-      <h3>🌍</h3>
-      <b>The basics of a life</b><br>
-      <sub>money · time · health · data</sub><br>
+      <h3>⛰️</h3>
+      <b>I build things meant to last</b>
       <br>
-      <i>should belong to us</i><br>
-      <sub>not to the platforms<br>that rent them back monthly</sub>
+      <sub>not things meant to trend</sub>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <br>
+      <h3>🌊</h3>
+      <b>ผมเปิดงานให้คนเห็นทุกขั้น</b>
+      <br>
+      <sub>ตั้งแต่บรรทัดแรกจนปล่อย</sub>
+      <br><br>
+    </td>
+    <td valign="top" align="center">
+      <br>
+      <h3>🌊</h3>
+      <b>I work with the door open</b>
+      <br>
+      <sub>from line one to release</sub>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <br>
+      <h3>🔥</h3>
+      <b>ผมเก็บข้อมูลไว้ที่ของผู้ใช้</b>
+      <br>
+      <sub>เพราะมันเป็นของเขาตั้งแต่แรก</sub>
+      <br><br>
+    </td>
+    <td valign="top" align="center">
+      <br>
+      <h3>🔥</h3>
+      <b>I keep your data on your machine</b>
+      <br>
+      <sub>because it was always yours</sub>
       <br><br>
     </td>
   </tr>
@@ -61,19 +96,19 @@
 
 <div align="center">
 
-# 〈 ทำเพื่ออะไร · What it's for 〉
+# 〈 ทำไม · Why 〉
 
 <br>
 
-> **อยากเห็นโลก** ที่คนทั่วไปใช้ของดี ๆ
-> โดยไม่ต้องเสียค่าผูกขาด —
-> และไม่ต้องส่งข้อมูลตัวเอง ไปอยู่ในมือใคร
+> **เพราะของพื้นฐานในชีวิต**
+> — เวลา ร่างกาย เงิน ข้อมูล —
+> **คือของที่ต้องอยู่ในมือเราเอง**
 
 <br>
 
-> **A world** where ordinary people can use good tools
-> without paying tolls —
-> and without handing over their lives in return
+> **Because the basics of a life**
+> — time, body, money, data —
+> **must remain in our own hands**
 
 </div>
 
@@ -83,7 +118,7 @@
 
 <div align="center">
 
-# 〈 หลักการ · Principles 〉
+# 〈 หลักการทำงาน · How I work 〉
 
 </div>
 
@@ -92,28 +127,28 @@
 <table border="0" align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <h2>🌱</h2>
+      <h2>🧭</h2>
       <b>First principles</b>
       <br>
-      <sub><i>เริ่มจากคำถามว่า "ทำไม" ก่อน "อย่างไร"</i></sub>
+      <sub><i>คิดจากต้นทาง<br>ไม่ลอกตามที่มีอยู่</i></sub>
     </td>
     <td align="center" width="25%">
       <h2>🔓</h2>
-      <b>Open from line one</b>
+      <b>Open by default</b>
       <br>
-      <sub><i>เปิดเผยทุกบรรทัดตั้งแต่ commit แรก</i></sub>
+      <sub><i>โค้ดทุกบรรทัด<br>เปิดให้อ่านได้</i></sub>
     </td>
     <td align="center" width="25%">
       <h2>🏠</h2>
-      <b>Local-first</b>
+      <b>Local by default</b>
       <br>
-      <sub><i>ของดีไม่ต้องผูก SaaS ข้อมูลอยู่ในเครื่องเรา</i></sub>
+      <sub><i>ทำงานออฟไลน์ได้<br>ก่อนคิดเรื่องคลาวด์</i></sub>
     </td>
     <td align="center" width="25%">
-      <h2>🔁</h2>
-      <b>Small &amp; often</b>
+      <h2>🪨</h2>
+      <b>Built to outlast</b>
       <br>
-      <sub><i>ทีละชิ้นเล็ก ขยายเมื่อใช้ได้จริง</i></sub>
+      <sub><i>ทีละก้อน<br>แต่ละก้อนยืนได้เอง</i></sub>
     </td>
   </tr>
 </table>
@@ -126,9 +161,9 @@
 
 <br>
 
-> *"ของดีในโลก ไม่ควรอยู่หลังกำแพงเงินเสมอ"*
+> **"ของดี ทำขึ้นเพื่ออยู่นาน"**
 >
-> *"Good things in the world shouldn't always live behind paywalls"*
+> **"Good things are made to last"**
 
 <br>
 
