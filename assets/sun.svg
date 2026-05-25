@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="100%" role="img" aria-label="A sun rising over a quiet horizon">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#080d14"/>
+      <stop offset="35%" stop-color="#15202e"/>
+      <stop offset="70%" stop-color="#5f4138"/>
+      <stop offset="92%" stop-color="#d97757"/>
+      <stop offset="100%" stop-color="#f3b08a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="100%" r="65%">
+      <stop offset="0%" stop-color="#ffeac2" stop-opacity="0.95"/>
+      <stop offset="40%" stop-color="#e89070" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#d97757" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="disc" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="30%" stop-color="#ffeac2"/>
+      <stop offset="80%" stop-color="#f3b08a"/>
+      <stop offset="100%" stop-color="#e89070"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#sky)"/>
+
+  <g fill="#f3e0c2">
+    <circle cx="120" cy="55" r="1.1" opacity="0.7">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="92" r="0.8" opacity="0.6">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="395" cy="42" r="1.2" opacity="0.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="78" r="0.7" opacity="0.5">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="35" r="1" opacity="0.75">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="930" cy="88" r="1.1" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5.5s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="52" r="0.9" opacity="0.65">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="7s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1190" cy="105" r="0.8" opacity="0.55">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <ellipse cx="640" cy="295" rx="520" ry="200" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <circle cx="640" cy="295" r="82" fill="url(#disc)" opacity="0.96"/>
+  <circle cx="640" cy="295" r="58" fill="#fff4d6" opacity="0.85"/>
+
+  <line x1="0" y1="295" x2="1280" y2="295" stroke="#ffeac2" stroke-width="0.6" opacity="0.35"/>
+
+  <path d="M 0 305
+           L 90 280 L 165 295 L 245 268 L 335 290
+           L 420 272 L 510 295 L 590 285 L 640 280
+           L 705 290 L 790 270 L 870 292 L 970 275
+           L 1060 293 L 1150 278 L 1230 295 L 1280 282
+           L 1280 360 L 0 360 Z"
+        fill="#080d14" opacity="0.92"/>
+
+  <path d="M 0 320
+           L 130 305 L 280 320 L 430 308 L 580 322
+           L 720 312 L 860 325 L 1000 315 L 1140 325
+           L 1280 318 L 1280 360 L 0 360 Z"
+        fill="#080d14"/>
+</svg>
